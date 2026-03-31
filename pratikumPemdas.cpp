@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-// Variabel global
+// Variabel globa
 int n;
 int pilihan;
 
